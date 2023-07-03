@@ -23,7 +23,6 @@
 ## 4. ERD
    ![image](https://github.com/jihujung/Project_campingcheol/assets/120322432/d53b4848-d062-476e-86b5-1415a81b859d)
 
-
 <br/>
 
 ## 5. 담당 기능
